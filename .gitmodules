@@ -1,3 +1,4 @@
 [submodule "toxcore"]
 	path = toxcore-git
-	url = https://github.com/toktok/c-toxcore.git
+	url = https://github.com/communityio/c-toxcore.git
+	branch = communityio
